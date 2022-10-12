@@ -1,6 +1,7 @@
 Continuous Integration Demo
 ============================
 ![example workflow](https://github.com/Unikorn996/docs/actions/workflows/main.yml)
+[![Build Status](https://github.com/Unikorn996/demo-pyci.svg?branch=main)](https://github.com/Unikorn996/docs/actions/workflows/main.yml)
 
 This project demonstrates use of Github Actions to build and test a Python project.  
 Create a repository on Github, then use Github Actions to build and test it.
